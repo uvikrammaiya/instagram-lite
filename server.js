@@ -16,7 +16,7 @@ async function startServer() {
 
   app.set("io", initSocket(httpServer));
 
-  httpServer.listen(PORT, () => {
+  httpServer.listen(PORT, "0.0.0.0", () => {
     logger.info(`Server running on port ${PORT}`);
   });
 }

@@ -13,3 +13,5 @@
 {"level":"info","message":"Server running on port 5000","timestamp":"2026-11-19T14:49:22.030Z"}
 {"level":"info","message":"User registered","timestamp":"2026-11-19T14:50:19.227Z","userId":"6aff0cabcb770e602a8ab19f","username":"sam"}
 {"level":"info","message":"User logged in","timestamp":"2026-11-19T14:50:29.717Z","userId":"6aff0cabcb770e602a8ab19f","username":"sam"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-19T17:17:11.965Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-11-19T17:17:11.975Z"}
